@@ -130,6 +130,7 @@ We maintain multiple open-source and internal repositories powering PayBeam:
 | 🐦 Twitter/X | [X](https://x.com/paybeam_hq) | Latest updates |
 | 💬 Discord | [Discord](https://discord.gg/zrKr7EVZwS) | Community, support, and product feedback |
 | 📊 Pitch Deck | [Pitch Deck Link](https://www.canva.com/design/DAGem4zFsac/51pkjQd2S0MDsZRZb-j28w/edit?utm_content=DAGem4zFsac&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | Full vision, roadmap, and funding details |
+| 💬 Pitch | [Youtube](https://youtu.be/bZA-xnepT4Y) | youtube |
 
 ---
 
