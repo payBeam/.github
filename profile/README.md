@@ -121,9 +121,9 @@ We maintain multiple open-source and internal repositories powering PayBeam:
 | Layer | Repo | Description |
 |------|------|-------------|
 | 🔌 Modal Library | [npm](https://www.npmjs.com/package/paybeam-modal-library) | Plug-and-play modal for PayBeam checkout |
-| ⚙️ ZetaChain Contract | [GitHub Link](https://github.com/payBeam/payBeam-ZETA) | Smart contract that moderates omnichain payments |
+| ⚙️ ZetaChain Contract | [deployed contract](https://github.com/payBeam/payBeam-ZETA) | Smart contract that moderates omnichain payments |
 | 🔗 Stellar Contract | [GitHub Link](https://github.com/payBeam/payBeam-soroban-contract) | Stellar-specific contract to support stablecoin settlements |
-| 🧠 Zetachain codebase | [backend](https://github.com/backend) | Handles off-chain invoice logic, signature generation, and webhook notifications |
+| 🧠 Zetachain codebase | [solidty code](https://github.com/backend) | Handles off-chain invoice logic, signature generation, and webhook notifications |
 | 🧠 Backend API (Node.js) | [backend](https://github.com/backend) | Handles off-chain invoice logic, signature generation, and webhook notifications |
 | 🖥️ Frontend Web App | [frontend](https://github.com/Paybeam) | Merchant dashboard, invoice creation, and payment tracking |
 | 🌍 PayBeam Website | [getpaybeam.xyz](https://getpaybeam.xyz) | Marketing and onboarding portal |
