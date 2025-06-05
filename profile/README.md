@@ -134,7 +134,7 @@ We maintain multiple open-source and internal repositories powering PayBeam:
 
 ---
 
-## 🤝 Why ZetaChain?
+## 🤝 Why ZetaChain???
 
 PayBeam chose **ZetaChain** because it allows us to:
 
